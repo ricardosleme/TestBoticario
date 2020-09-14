@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Seller.CashBack.API", "Sales.Seller.CashBack.API\Sales.Seller.CashBack.API.csproj", "{C68C3D06-89C1-47E3-9009-347BBA01C970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Seller.CashBack.Test", "Sales.Seller.CashBack.Test\Sales.Seller.CashBack.Test.csproj", "{FF0D784A-23F0-48EF-B1DD-FA901D95A3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68C3D06-89C1-47E3-9009-347BBA01C970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68C3D06-89C1-47E3-9009-347BBA01C970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68C3D06-89C1-47E3-9009-347BBA01C970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68C3D06-89C1-47E3-9009-347BBA01C970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0D784A-23F0-48EF-B1DD-FA901D95A3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0D784A-23F0-48EF-B1DD-FA901D95A3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0D784A-23F0-48EF-B1DD-FA901D95A3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0D784A-23F0-48EF-B1DD-FA901D95A3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F983A94C-C9C3-4592-869D-CA8921709560}
+	EndGlobalSection
+EndGlobal
